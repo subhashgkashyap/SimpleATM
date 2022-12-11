@@ -1,1 +1,1 @@
-This Java Program is replicates the work of a simple ATM machine.
+This Java Program replicates the work of a simple ATM machine.
